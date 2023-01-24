@@ -7,7 +7,7 @@ public class CompanyDto {
 
     private long id;
     private String name;
-    private ClientDto client;
-    private AddressDto address;
+    private Long clientId;
+    private Long addressId;
 
 }
