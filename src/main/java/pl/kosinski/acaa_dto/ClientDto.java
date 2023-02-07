@@ -7,6 +7,6 @@ public class ClientDto {
 
     private long id;
     private String name;
-    private AddressDto address;
+    private long addressId;
 
 }
